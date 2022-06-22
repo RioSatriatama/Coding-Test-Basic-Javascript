@@ -1,0 +1,13 @@
+Bagaimana cara menangani kondisi onRejected pada sintaksis async-await?
+- Menggunakan sintaks try-catch
+
+Berikut ini merupakan pernyataan yang tepat terkait synchronous dan asynchronous, kecuali...
+- Kode synchronous cocok digunakan untuk program yang menjalankan proses dengan waktu lama.
+
+Manakah perintah berikut ini yang tepat untuk menginstal package NPM ke dalam project?
+- npm i <package-name>
+- npm add <package-name>
+- npm install <package-name>
+
+Apakah format yang digunakan untuk mengelola package pada NPM?
+- JSON
